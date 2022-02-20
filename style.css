@@ -1,3 +1,8 @@
 .now{
     background-color: aqua;
     }
+    h1:hover{
+        color: blue;
+        font-size: 60px;
+        background-color: lawngreen;
+    }
